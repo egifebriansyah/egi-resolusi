@@ -1,0 +1,6 @@
+RENCANA KONTEN EGI
+
+- Javascript
+- PHP frameworks
+- Interview
+- Vlogs
