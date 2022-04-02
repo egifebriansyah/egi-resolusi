@@ -3,6 +3,7 @@ RENCANA KONTEN EGI
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP frameworks
 - Interview
 - Vlogs
